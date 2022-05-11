@@ -2,3 +2,5 @@ C programming
 Java
 Python
 C#
+data structures
+OS
